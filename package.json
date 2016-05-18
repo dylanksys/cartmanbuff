@@ -1,0 +1,12 @@
+{
+  "name": "cartman",
+  "description": "cartman is buff",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/cartmanbuff"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
